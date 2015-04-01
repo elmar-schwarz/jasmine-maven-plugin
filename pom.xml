@@ -3,7 +3,7 @@
 
   <groupId>com.github.searls</groupId>
   <artifactId>jasmine-maven-plugin</artifactId>
-  <version>2.2.0.SEP</version>
+  <version>2.2.1.SEP-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>jasmine-maven-plugin</name>
